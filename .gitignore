@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+data/
+log/
+
+.ipynb_checkpoints
+
+catboost_info/
+cat_feature_index.*
+
